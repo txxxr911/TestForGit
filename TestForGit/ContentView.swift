@@ -17,6 +17,10 @@ struct ContentView: View {
             Text("Task 1")
             Text("Task 2")
             Text("Find solution for the bug")
+
+            Text("Task 3")
+
+            Text("random commit in dev")
         }
         .padding()
     }
