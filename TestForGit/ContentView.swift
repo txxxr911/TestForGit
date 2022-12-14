@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Task 1")
             Text("Task 2")
             Text("Find solution for the bug")
-
+            Text("4")
             Text("Task 3")
 
             Text("random commit in dev")
